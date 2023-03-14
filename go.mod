@@ -1,4 +1,4 @@
-module github.com/shirou/gopsutil/v3
+module github.com/vfpinheiro/gopsutil
 
 go 1.15
 

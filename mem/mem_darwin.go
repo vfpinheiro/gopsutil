@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
+	"github.com/vfpinheiro/gopsutil/internal/common"
 	"golang.org/x/sys/unix"
 )
 

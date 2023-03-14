@@ -6,7 +6,7 @@ package host
 import (
 	"context"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
+	"github.com/vfpinheiro/gopsutil/internal/common"
 )
 
 func SensorsTemperaturesWithContext(ctx context.Context) ([]TemperatureStat, error) {
